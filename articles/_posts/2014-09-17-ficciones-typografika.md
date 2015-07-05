@@ -2,6 +2,7 @@
 layout: post
 title:  _re:form_: Back Alley Poster Show: Designer Erik Brandt’s world-famous garage gallerydate:   2014-09-17
 
+date:   2015-07-05 13:28:29
 ---
 
 >In Minnesota on a 20-below-zero day, Erik Brandt is certainly not alone in his liberal use of windshield-wiper fluid to stave off ice formation. But he’s not using it on his windshield.  
